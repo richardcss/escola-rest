@@ -1,5 +1,10 @@
 import express from 'express';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
 import homeRoutes from './src/routes/homeRoutes';
+import './src/database';
 
 class App {
   constructor() {
