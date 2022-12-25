@@ -1,0 +1,9 @@
+**node_modules/
+**.editorconfig
+**.eslintrc.js
+**.prettierrc
+**.vscode/
+**node_modules/
+**nodemon.json
+**package-lock.json
+**.env
